@@ -28,6 +28,4 @@ A simple GUI-based power, energy and resistance calculator developed using Pytho
 ## How to Run
 1. Make sure Python 3 is installed.
 2. Download or clone this repository.
-3. Run the following command:
-   '''bash
-   python main.py
+3. Run the following command: main.py
