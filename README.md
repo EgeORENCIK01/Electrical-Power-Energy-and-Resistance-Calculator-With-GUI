@@ -1,5 +1,5 @@
 # Electrical-Power-Energy-and-Resistance-Calculator-With-GUI
-This projecy is a simple graphical calculator developed with Python to perform basic electrical engineering calculations. It was created as an educational project to combine fundamental electrical engineering concepts with basic software development and GUI design.
+This project is a simple graphical calculator developed with Python to perform basic electrical engineering calculations. It was created as an educational project to combine fundamental electrical engineering concepts with basic software development and GUI design.
 
 ## Purpose of the Project
 The main goal of this project is to:
