@@ -17,13 +17,13 @@ A simple GUI-based power,energy and resistance calculator developed using Python
 ![Power GUI](screenshots/GUIscreenshot1.png)
 
 ### Resistance Calculation Example
-![Power GUI](screenshots/GUIscreenshots2.png)
+![Resistance GUI](screenshots/GUIscreenshots2.png)
 
 ### Energy Calculation Example
-![Power GUI](screenshots/GUIscreenshots3.png)
+![Energy GUI](screenshots/GUIscreenshots3.png)
 
 ### Error Example
-![Power GUI](screenshots/GUIscreenshotsError.png)
+![Error GUI](screenshots/GUIscreenshotsError.png)
 
 ## How to Run
 1. Make sure Python 3 is installed.
