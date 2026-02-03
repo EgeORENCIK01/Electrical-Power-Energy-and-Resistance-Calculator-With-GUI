@@ -1,5 +1,5 @@
 # Electrical-Power-Energy-and-Resistance-Calculator-With-GUI
-A simple GUI-based power,energy and resistance calculator developed using Python and Tkinter.
+A simple GUI-based power, energy and resistance calculator developed using Python and Tkinter.
 
 ## Features
 - Power calculation (P = V * I)
