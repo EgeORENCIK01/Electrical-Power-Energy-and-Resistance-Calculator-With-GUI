@@ -13,7 +13,17 @@ A simple GUI-based power,energy and resistance calculator developed using Python
 - Tkinter (GUI)
 
 ## Screenshots
-![Calculator GUI](screenshots/calculator_gui.png)
+### Power Calculation Example
+![Power GUI](screenshots/GUIscreenshot1.png)
+
+### Resistance Calculation Example
+![Power GUI](screenshots/GUIscreenshots2.png)
+
+### Energy Calculation Example
+![Power GUI](screenshots/GUIscreenshots3.png)
+
+### Error Example
+![Power GUI](screenshots/GUIscreenshotsError.png)
 
 ## How to Run
 1. Make sure Python 3 is installed.
